@@ -92,12 +92,10 @@ button {
     background-color: red;
     padding: 20px;
     margin: 50px 650px;
-
     color: #eee;
     border-radius: 20px;
     font-family: monospace;
 }
-
 button:hover {
     box-shadow: 6px 6px 6px grey;
 }
@@ -110,8 +108,8 @@ button:hover {
 
 .box1 h2 {
     position: absolute;
-    top: 230px;
-    left: 380px;
+    top: 200px;
+    left: 320px;
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
